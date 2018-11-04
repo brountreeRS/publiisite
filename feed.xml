@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>the reformed coder</title>
+    <link href="https://brountreers.github.io/publiisite/feed.xml" rel="self" />
+    <link href="https://brountreers.github.io/publiisite" />
+    <updated>2018-11-04T15:59:28-05:00</updated>
+    <author>
+        <name>brian rountree</name>
+    </author>
+    <id>https://brountreers.github.io/publiisite</id>
+
+    <entry>
+        <title>testing, testing, 1, 2, 3</title>
+        <author>
+            <name>brian rountree</name>
+        </author>
+        <link href="https://brountreers.github.io/publiisite/testing-testing-1-2-3.html"/>
+        <id>https://brountreers.github.io/publiisite/testing-testing-1-2-3.html</id>
+
+        <updated>2018-11-04T15:58:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://brountreers.github.io/publiisite/media/posts/1/" alt="" />
+                    Tote bag selfies celiac sartorial fashion axe, venmo man bun pabst pork belly green juice. Vegan hot chicken coloring book beard williamsburg, waistcoat disrupt&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://brountreers.github.io/publiisite/media/posts/1/" alt="" />
+                <div class="anyipsum-output">
+<p>Tote bag selfies celiac sartorial fashion axe, venmo man bun pabst pork belly green juice. Vegan hot chicken coloring book beard williamsburg, waistcoat disrupt intelligentsia butcher lomo tumeric enamel pin tumblr bicycle rights af. Iceland direct trade normcore typewriter live-edge. YOLO bushwick hashtag fingerstache food truck.</p>
+<p>wolf moon taxidermy literally godard affogato gastropub. Franzen mumblecore prism +1, hashtag wolf banh mi thundercats actually twee cold-pressed shoreditch direct trade bitters. Art party yuccie ugh blue bottle occupy, meh semiotics gastropub. Stumptown pinterest brooklyn, fixie 8-bit prism PBR&amp;B drinking vinegar live-edge hell of taiyaki hexagon. Cred franzen pinterest banh mi VHS helvetica, deep v ennui. Prism venmo ethical sriracha.</p>
+<p>Lomo kale chips tousled four loko. Poke waistcoat swag woke skateboard. Slow-carb intelligentsia snackwave before they sold out. Bespoke listicle PBR&amp;B tofu, butcher heirloom chambray. Sriracha actually hoodie williamsburg lomo succulents celiac flexitarian hot chicken meggings 3 wolf moon poke. Salvia wayfarers asymmetrical, fanny pack raclette put a bird on it photo booth live-edge sustainable bespoke.</p>
+<p>Polaroid neutra lo-fi viral cronut letterpress kale chips butcher quinoa meditation yuccie. Unicorn tote bag gochujang cliche gentrify paleo 90's kickstarter butcher keffiyeh celiac hexagon selfies chia poke. Swag palo santo gastropub, forage hella lyft plaid selfies portland blue bottle messenger bag you probably haven't heard of them. Mixtape helvetica PBR&amp;B crucifix pickled, truffaut farm-to-table enamel pin four loko palo santo dreamcatcher sartorial green juice godard.</p>
+<p>Selfies live-edge readymade, letterpress try-hard mixtape palo santo echo park pickled. Portland literally health goth locavore XOXO actually. Coloring book letterpress intelligentsia knausgaard kickstarter poke artisan lyft irony kogi godard thundercats marfa. Succulents kinfolk 90's, palo santo schlitz typewriter whatever tacos. Vaporware sriracha actually snackwave, chicharrones aesthetic twee intelligentsia portland iceland craft beer prism waistcoat chia. Mumblecore affogato brooklyn master cleanse etsy before they sold out, PBR&amp;B helvetica lomo.</p>
+</div>
+            ]]>
+        </content>
+    </entry>
+</feed>
