@@ -3,12 +3,136 @@
     <title>the reformed coder</title>
     <link href="https://brountreers.github.io/publiisite/feed.xml" rel="self" />
     <link href="https://brountreers.github.io/publiisite" />
-    <updated>2018-11-04T16:00:57-05:00</updated>
+    <updated>2018-11-05T08:38:19-05:00</updated>
     <author>
         <name>brian rountree</name>
     </author>
     <id>https://brountreers.github.io/publiisite</id>
 
+    <entry>
+        <title>Resume of Brian Rountree</title>
+        <author>
+            <name>brian rountree</name>
+        </author>
+        <link href="https://brountreers.github.io/publiisite/resume-of-brian-rountree.html"/>
+        <id>https://brountreers.github.io/publiisite/resume-of-brian-rountree.html</id>
+
+        <updated>2018-11-05T08:37:33-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://brountreers.github.io/publiisite/media/posts/2/" alt="" />
+                    BRIAN ROUNTREE, THE REFORMED CODEREXPERIENCED TECHNOLOGY LEADER275 Medford Street #504 Boston MA 02129 (+1) 210-850-9193 thepixelarchitect@yahoo.com Leading teams that drive impactful top level objectives forward. Hiring, mentoring, and developing individual contributors and the next generation of software development managers. March 2018 - current Associate Director&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://brountreers.github.io/publiisite/media/posts/2/" alt="" />
+                <h1>BRIAN ROUNTREE, THE REFORMED CODER</h1>
+<h2>EXPERIENCED TECHNOLOGY LEADER</h2>
+<p class="address">275 Medford Street #504 Boston MA 02129</p>
+<p class="address">(+1) 210-850-9193</p>
+<p class="address"><a href="mailto:thepixelarchitect@yahoo.com">thepixelarchitect@yahoo.com</a></p>
+<h3>MY OBJECTIVES</h3>
+<p>Leading teams that drive impactful top level objectives forward.</p>
+<p>Hiring, mentoring, and developing individual contributors and the next generation of software development managers.</p>
+<h3>EXPERIENCE</h3>
+<p class="dates">March 2018 - current</p>
+<p class="title">Associate Director of Engineering</p>
+<p class="company">Wayfair</p>
+<p>Leading the developmewnt efforts for systems and applications for handling customer post sales activities such as returns, cancellations, exchanges and delivery updates. In addition, I led the efforts for rebuilding and launching a new chat system for Wayfair support channels.</p>
+<p class="dates">July 2017 - Jan 2018</p>
+<p class="title">VP of Engineering</p>
+<p class="company">Glympse</p>
+<p>Transitioned Glympse application stack from a .NET monolith over to a distributed, cloud native, microservices based set of applications. Refocused engineering on delivering higher quality software on a more predictable basis. Established a framework for engaging with the product team in a more structured way. Implemented the Desired Outcomes Framework as well as Dual Track Agile to bring increased focus and velocity to the engineering organization. Worked to simplify the AWS infrastructure to improve performance as well as reduce the monthly spend.</p>
+<p class="dates">Oct 2016 - March 2017</p>
+<p class="title">Sr Engineering Manager</p>
+<p class="company">Amazon Web Services</p>
+<p>Supported the engineering efforts for the AWS Mobile Hub product and the AWS Device Farm product.</p>
+<p>Streamlined the build and deployment process to be able to deliver updated mobile SDKs in sync with product releases from across the AWS portfolio of services.</p>
+<p>Supported the engineering efforts to build out enterprise capabilities for ZenDesk, Microsoft Dynamics, Workday and SAP in the AWS Mobile Hub and Mobile SDKs.</p>
+<p>Launched full support for voice-to-text and text-to-voice APIs and SDKs to coincide with the AWS re:INVENT launches of voice and Alexa support in 2016</p>
+<p class="dates">Oct 2014 - Oct 2016</p>
+<p class="title">Director of Engineering</p>
+<p class="company">Hewlett Packard</p>
+<p>Oversaw all of the User Interface engineering across all of the HP Helion Cloud products, as well as the Developer Experience efforts: SDKs, CLIs, IDE integrations, Developer Portal and Cloud Services Marketplace.</p>
+<p>Areas of focus included leading development teams working with customers and the community on the OpenStack Horizon Dashboard Project. and the HPE NFV Cloud.</p>
+<p>Provided technical leadership for the rewrite of the the Horizon codebase in AngularJS. Project Technical lead for the OpenStack Searchlight project. Led the development efforts for HP’s CloudSuite management application stack.</p>
+<p class="dates">Jan 2011 - Oct 2015</p>
+<p class="title">Director of Engineering</p>
+<p class="company">Rackspace</p>
+<p>Led multiple cross functional teams responsible for building out scalable, highly distributed web applications to enable Rackspace staff to deliver “Fanatical Support” to customers. Built out a fully staffed and capable Product Management team, six engineering teams, a user experience group, and a devops team. Utilizing cutting edge technologies like MongoDB, Elasticsearch and AngularJS, these teams rebuilt our support tools from scratch.</p>
+<p>Was asked by senior leadership to step in and assist the then nascent Rackspace Developer Relations Group. Immediately saw to the creation of actionable metrics to ensure everyone understood what success looked like before starting to scale the team. By focusing on key hires in the industry, I assembled a top-notch team of SDK authors, Evangelists, and API Documentation specialists and grew the DRG from 3 to 28 in nine months.</p>
+<p>Oversaw the design and initial build of developer.rackspace.com. Led the release of SDKs and starter kits for the Rackspace Open Cloud in Python, Ruby, .NET, Node, Java and PHP. Oversaw the budget and travel of the evangelists speaking at conferences around the world</p>
+<p class="dates">2005 - 2010</p>
+S
+<p class="title">enior Software Architect +multiple other roles</p>
+<p class="company">YAHOO!</p>
+<p>Oversaw the technical architecture for all of Yahoo’s Open Social initiatives. Ensured stakeholders were updated, managed global release cycles and maintained zero downtime updates with no breaking API changes downstream.</p>
+<p>Led the creation of code, documentation, UI assets and style guides to support the relaunch of Yahoo Finance. Upon completion, Yahoo had one code base, supporting 24 languages, globally deployed across 8 datacenters and generating 4+ billion pageviews per day on average.</p>
+<p>Oversaw the front end engineering efforts in the creation of brand new, services based media properties such as Yahoo Shine and Yahoo Tech.</p>
+<p>Worked as part of a special Yahoo Media Engineering skunk works development team assigned to build out features and packages across the media properties that fell outside of the capabilities of the existing teams. Examples included a global blogging platform for Yahoo users, free, real-time stock quotes on Yahoo Finance and the first version of what would become Yahoo Fantasy Sports</p>
+<h3>STRENGTHS</h3>
+<ul>
+<li>Input</li>
+<li>Activator</li>
+<li>Relator</li>
+<li>Arranger</li>
+<li>Includer</li>
+</ul>
+<h3>SKILLS</h3>
+<ul>
+<li>Leadership</li>
+<li>Agile Development</li>
+<li>Hiring &amp; Retention</li>
+<li>Public Speaking</li>
+<li>Software Development</li>
+<li>Scaling Systems</li>
+<li>Cloud Native Development</li>
+<li>Quality</li>
+<li>Large Distributed Systems</li>
+</ul>
+<h3>LANGUAGES</h3>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript
+<ul>
+<li>vanilla</li>
+<li>jquery</li>
+<li>node</li>
+</ul>
+</li>
+<li>XSLT</li>
+<li>Python</li>
+<li>PHP</li>
+<li>Go</li>
+</ul>
+<h3>INFRASTRUCTURE</h3>
+<ul>
+<li>OpenStack</li>
+<li>Cloud Foundry</li>
+<li>AWS</li>
+<li>Azure</li>
+<li>Rackspace Cloud</li>
+</ul>
+<h3>INTERESTS</h3>
+<ul>
+<li>Community Service</li>
+<li>Molecular Gastronomy</li>
+<li>Motion Graphics</li>
+<li>Mentoring New Managers</li>
+<li>Generative Art</li>
+<li>Open Source Software Development</li>
+<li>MK1 Sciroccos</li>
+<li>Vector Illustrations</li>
+<li>Motion Design</li>
+<li>Mixology</li>
+<li>Making Ginger Beer</li>
+<li>Data Visualization</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>testing, testing, 1, 2, 3</title>
         <author>
@@ -21,7 +145,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://brountreers.github.io/publiisite/media/posts/1/" alt="" />
-                    Tote bag selfies celiac sartorial fashion axe, venmo man bun pabst pork belly green juice. Vegan hot chicken coloring book beard williamsburg, waistcoat disrupt&hellip;
+                    Tote bag selfies celiac sartorial fashion axe, venmo man bun pabst pork belly green juice. Vegan hot chicken coloring book beard williamsburg, waistcoat disrupt intelligentsia butcher lomo tumeric enamel pin tumblr bicycle rights af. Iceland direct trade normcore typewriter live-edge. YOLO bushwick hashtag fingerstache food&hellip;
                 ]]>
             </summary>
         <content type="html">
